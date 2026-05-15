@@ -1,7 +1,5 @@
 # CODSOFT PROJECT INTERNSHIP REPOSITORY
 
- ===
-
 ## To-Do List Application
 
 A simple and user-friendly To-Do List application developed using Python.  
