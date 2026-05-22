@@ -1,5 +1,5 @@
-tasks = [] #initialized list to store tasks
 # TODO List for CODSOFT Project Internship Task
+tasks = [] #initialized list to store tasks
 
 # Function to clear terminal screen
 def clear_screen():
@@ -95,5 +95,7 @@ def main():
       print("Choose Valid operation!!!")
     updateFile()
 
+
 # Finally called main function to run the whole program :)
-main()
+if __name__ == "__main__":
+  main()
