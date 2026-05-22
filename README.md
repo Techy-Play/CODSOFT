@@ -25,6 +25,27 @@ A simple command-line based To-Do List application built using Python.
 python Task1_TodoList/todo.py
 ```
 
+### Task 2: Calculator
+
+A simple command-line calculator that performs basic arithmetic operations on two user-provided numbers.
+
+#### Features
+- Prompts the user for two numbers
+- Lets the user choose an arithmetic operation
+- Supports addition, subtraction, multiplication, and division
+- Handles invalid input and division by zero
+
+#### How It Works
+- The user enters two numbers
+- The user selects an operation from the menu
+- The program performs the calculation and displays the result
+
+#### How to Run
+
+```bash
+python Task2_Calculator/calculator.py
+```
+
 ### Task 3: Password Generator
 
 A command-line password generator that creates strong, random passwords based on the length and complexity chosen by the user.
